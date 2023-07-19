@@ -13,7 +13,7 @@
 | Característica         | Información                                                              |
 |------------------------|--------------------------------------------------------------------------|
 | Nombre                 | Practica7                                                                |
-| Descripción            | |
+| Descripción            | Implementacion de un saludo baso en la hora del dispositivo              |
                                                                 
 
  
