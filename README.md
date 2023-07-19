@@ -1,5 +1,19 @@
-# DDI_PRACTICA7_180247
+# Universidad Tecnológica de Xicotepec de Juárez
+## Ingeniería en Desarrollo y Gestión de Software
+### Nombre:Lesly Yareth Hernandez Bonilla
+### Matricula:180247
+#### Desarrollo de Dispositivos Inteligentes
+#### D ocente: M.T.I Marco A. Ramirez Hernandez
+![Banner](https://i.postimg.cc/28Zg3QFz/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-**Implementacion de un saludo baso en la hora del dispositivo**
+## Practica7 
 
- Nombre:Lesly Yareth Hernandez Bonilla Matricula:180247 Materia: Desarrollo para Dispositivos Inteligentes ocente: M.T.I Marco A. Ramirez Hernandez
+
+## Características
+| Característica         | Información                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| Nombre                 | Practica7                                                                |
+| Descripción            | |
+                                                                
+
+ 
